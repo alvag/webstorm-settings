@@ -1,5 +1,5 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="RearrangeCode">
-    <keyboard-shortcut first-keystroke="altGraph s" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
 </keymap>
