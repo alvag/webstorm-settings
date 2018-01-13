@@ -1,0 +1,8 @@
+<templateSet group="html/xml">
+  <template name="cardrow" value="&lt;div class=&quot;row&quot;&gt;&#10;    &lt;div class=&quot;col-12&quot;&gt;&#10;        &lt;div class=&quot;card&quot;&gt;&#10;            &lt;div class=&quot;card-body&quot;&gt;&#10;                $Seleccion$&#10;            &lt;/div&gt;&#10;        &lt;/div&gt;&#10;    &lt;/div&gt;&#10;&lt;/div&gt;" shortcut="TAB" description="Tarjeta con row" toReformat="true" toShortenFQNames="true">
+    <variable name="Seleccion" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
